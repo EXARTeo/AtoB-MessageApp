@@ -1,0 +1,2 @@
+B : Hey I am writing directly into the exampleoutput.txt
+B : You can not see what I am doing muhahaha
